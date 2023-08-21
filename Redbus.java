@@ -3,7 +3,7 @@ import java.util.Scanner;
 class Ticket {
 
 	public static void main(String[] args) {
-		// REd BUS
+		// REd BUS.java
 	
 		System.out.println("HEllO NAMASTE WELCOME TO THE RED BUS");
 		System.out.println("TO USE THE RED BUS PORTAL U NEED TO LOGIN FIRST");
